@@ -1,0 +1,1 @@
+as funções de "dado" só foram inseridas no exercício seguinte (112)
